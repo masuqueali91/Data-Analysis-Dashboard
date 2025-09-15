@@ -1,4 +1,4 @@
-# Vrinda-store-data-analysis (Intetactive Dashboard Creation using MS Excel)
+# Vrinda-store-data-analysis (Interactive Dashboard Creation using MS Excel)
 ## Project Objectives
 The vrinda store want to create an anual sales report for 2022, so that the owner of vrinda store can understand their customers and grow more sales in 2023 and 2024.
 ## DataSet used
@@ -21,14 +21,19 @@ The vrinda store want to create an anual sales report for 2022, so that the owne
 - create pivot table according to  the question asked.
 - Merge all pivot table in one dashboard and apply slicer to make dayanamic.
 
+  
+
+    ## DashBoard
+    ![varinda store dashboard](https://github.com/user-attachments/assets/e3c38f06-94f1-421d-b9ac-201106eb2d15)
+
   ## Sample insight
   - Women are more likely to buy compared to men(~65%)
   - Maharashtra, Karnataka and Uttar Pradesh are the top 3 states(~35%)
   - Adult age group (30 -49 yrs) is max contributing (~50%)
   - Amazon, Flipkart and Myntra channels are max contributing (~80%)
-
-    ## DashBoard
-    ![varinda store dashboard](https://github.com/user-attachments/assets/e3c38f06-94f1-421d-b9ac-201106eb2d15)
+    
+  ## Final conclusion to improve Vrinda store sales:
+-	Target women customer of age group (30_49 yrs) lives in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers /coupons available on Amazon ,Flipkart and Myntra .
 
 
 
